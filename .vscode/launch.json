@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EventReactiveServiceApplication",
+            "request": "launch",
+            "mainClass": "org.sid.EventReactiveServiceApplication",
+            "projectName": "event-reactive-service"
+        }
+    ]
+}
